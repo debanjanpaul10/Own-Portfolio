@@ -1,0 +1,66 @@
+/* 
+	Project Name : My Own Portfolio
+	Created by: Debanjan Paul
+	Date: May 14, 2020
+*/
+
+body {
+	background: url('https://image.freepik.com/free-vector/abstract-galaxy-background_1199-247.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+	color: white;
+}
+h1 {
+	font-size: 80px;
+}
+h2 {
+	background: skyblue;
+	color: black;
+	border-radius: 5px;
+}
+h3 {
+	background: cyan;
+	color: black;
+	border-radius: 5px;
+}
+#container1 {
+	background: black;
+	width: 800px;
+	padding: 15px;
+	border-radius: 15px;
+}
+#blank1 {
+	background: none;
+	width: 700px;
+	padding: 5px;
+}
+#container2 {
+	background: #98D9A7;
+	width: 700px;
+	padding: 5px;
+	color: darkblue;
+	border-radius: 15px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#blank2 {
+	background: none;
+	width: 700px;
+	padding: 4px;
+}
+#video {
+	background: black;
+	color: white;
+	width: 700px;
+	padding: 5px;
+	border-radius: 15px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+a {
+	color: darkblue;
+	text-decoration: none;
+}
